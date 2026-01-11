@@ -2,7 +2,7 @@ Electornics Part Search
 #######################
 
 Phase I function:
--add parts to database
+-add/delete parts
     -part manufacturer, part number, description, part type
 -create/manage file system for parts
 -log added parts to a list 
